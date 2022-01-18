@@ -1,2 +1,2 @@
-# pass-data-back
-Pass some data to previous route using AutoRoute and HookWidgets
+# Pass Data Back
+Simple code example on how to pass some data to previous route in Flutter, using AutoRoute and HookWidgets.
